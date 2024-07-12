@@ -5,9 +5,12 @@ Intelligent Door Lock System with AI Face Recognition
 
 
 Checking memory:
+
 df -h
+
 Note: (/dev/root Should be 29G)
 If you're not using most of it, run
+
  sudo raspi-config
  advanced -- expand filesystem
  reboot your pi
