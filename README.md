@@ -2,6 +2,8 @@
 Intelligent Door Lock System with AI Face Recognition
 
 ---------------INSTALLATION GUIDELINE------------------
+
+
 Checking memory:
 df -h
 Note: (/dev/root Should be 29G)
